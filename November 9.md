@@ -23,4 +23,11 @@ team, how did you share the labor?**
 
 ## Post-critique summary
 
+By spending more time on the design, I might be able to speed up implementation. At the very least, it should ensure I don't head deep into an implementation only to decide I don't like the way it looks. Also, checkers is probably a better goal than chess as it still only uses one piece type. I need to think about visuals as well.
+
 ## Post-critique reflection
+
+I like the idea of checkers instead of chess. Originally I was thinking it might be harder because I don't understand it quite as well, plus it's less ambitious, but I probably need that. It technically has two pieces, because of kings, but I could make kingless checkers (much more likely to stalemate, so I could make sure whatever logic I have for that that works for tic-tac-toe still works). My other reservation was checkers has forced moves. I could begin without that though, and then see how I might implement it. This feedback is a great idea to really help push me back in the direction of limited scope.
+
+As it currently stands, I have this whole week set aside for design. Hopefully that should be enough, but we'll see. I hadn't thought of my language as particularly engineering heavy, but I suppose it might be. I will take this into consideration in my design, and after I have my ideal syntax down, spend some time thinking about the semantic interpretation, and how I can simplify it to make the coding easier.
+
