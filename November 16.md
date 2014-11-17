@@ -2,13 +2,6 @@
 
 ## Description
 
-**TODO:** Fill in this part with information about your work this week:
-important design decisions, changes to previous decisions, open questions,
-exciting milestones, preliminary results, etc. Feel free to include images
-(e.g., a sketch of the design or a screenshot of a running program), links to
-code, and any other resources that you think will help clearly convey your
-design process.
-
 This week I began implementing my code. I started with some basics - just defining two players, defining a board using the ```m x n``` notation, etc. Piece by piece, I built it up to it's current form, which is getting much closer to where I want it to be (I think I've definitely done at least the 1/4 of tic-tac-toe I wanted done by this week). For an idea of where my DSL currently is, check out my [sample program](https://github.com/AriHC/RuleBook/blob/ecfe40bb963eb9ca66c84e25391cb4fe94da9a37/src/samples/Tic_tac_toe.scala) (this link is to the program at the time of writing this). Notice that while I haven't yet designed the input functions, ```Legal_if``` is working; Running this version of the program will successfully reject all "moves" that aren't "heyo!".
 
 ## Questions
